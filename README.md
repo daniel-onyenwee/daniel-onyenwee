@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Onyenwee</h1>
 <h3 align="center">A passionate Javascript programmer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Karo Engine](https://github.com/daniel-onyenwee/Karo-engine)
+- 🔭 I’m currently working on [Karo Engine](https://github.com/daniel-onyenwee/Karo-engine) and [Karo](https://github.com/daniel-onyenwee/Karo)
 
 - 🌱 I’m currently learning **Rust, Vue and nuxt**
 
