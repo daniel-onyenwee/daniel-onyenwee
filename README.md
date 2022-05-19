@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Karo Engine](https://github.com/daniel-onyenwee/Karo-engine) and [Karo](https://github.com/daniel-onyenwee/Karo)
 
-- 🌱 I’m currently learning **Rust, Vue and nuxt**
+- 🌱 I’m currently learning **Golang, svelte and sveltekit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/daniel-onyenwee/](https://github.com/daniel-onyenwee/)
 
