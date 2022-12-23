@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Onyenwee</h1>
 <h3 align="center">A passionate Javascript programmer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Karo Engine](https://github.com/daniel-onyenwee/Karo-engine) and [Karo](https://github.com/daniel-onyenwee/Karo)
+- 🔭 I’m currently working on [Astaroid](https://github.com/astaroid/astaroid-core)
 
-- 🌱 I’m currently learning **Golang, svelte and sveltekit**
+- 🌱 I’m currently learning **[Astrojs](https://astro.build/), svelte and sveltekit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/daniel-onyenwee/](https://github.com/daniel-onyenwee/)
 
