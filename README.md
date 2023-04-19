@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Onyenwee</h1>
 <h3 align="center">A passionate Javascript programmer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Astaroid](https://github.com/astaroid/astaroid-core)
+- 🔭 I’m currently working on [Astaroid](https://github.com/astaroid/core)
 
 - 🌱 I’m currently learning **[Astrojs](https://astro.build/), svelte and sveltekit**
 
